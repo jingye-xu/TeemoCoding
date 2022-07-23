@@ -1,2 +1,2 @@
 # TeemoLearning
-This repository stores the notebooks and scripts for the new updated machine learning course by Andrew
+This repository stores the solutions for problems posted on Leetcode.

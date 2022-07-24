@@ -7,6 +7,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [102. Binary Tree Level Order Traversal](https://github.com/jingye-xu/TeemoCoding/blob/main/102.%20Binary%20Tree%20Level%20Order%20Traversal.md)
 
+[111. Minimum Depth of Binary Tree](https://github.com/jingye-xu/TeemoCoding/blob/main/111.%20Minimum%20Depth%20of%20Binary%20Tree.md)
+
 [278. First Bad Version](https://github.com/jingye-xu/TeemoCoding/blob/main/278.%20First%20Bad%20Version.md)
 
 [543. Diameter of Binary Tree](https://github.com/jingye-xu/TeemoCoding/blob/main/543.%20Diameter%20of%20Binary%20Tree.md)

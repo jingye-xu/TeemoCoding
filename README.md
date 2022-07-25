@@ -9,6 +9,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [111. Minimum Depth of Binary Tree](https://github.com/jingye-xu/TeemoCoding/blob/main/111.%20Minimum%20Depth%20of%20Binary%20Tree.md)
 
+[235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/jingye-xu/TeemoCoding/blob/main/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md)
+
 [278. First Bad Version](https://github.com/jingye-xu/TeemoCoding/blob/main/278.%20First%20Bad%20Version.md)
 
 [543. Diameter of Binary Tree](https://github.com/jingye-xu/TeemoCoding/blob/main/543.%20Diameter%20of%20Binary%20Tree.md)

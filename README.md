@@ -5,6 +5,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [1. Two Sum](https://github.com/jingye-xu/TeemoCoding/blob/main/1.%20Two%20Sum.md)
 
+[70. Climbing Stairs](https://github.com/jingye-xu/TeemoCoding/blob/main/70.%20Climbing%20Stairs.md)
+
 [98. Validate Binary Search Tree](https://github.com/jingye-xu/TeemoCoding/blob/main/98.%20Validate%20Binary%20Search%20Tree.md)
 
 [102. Binary Tree Level Order Traversal](https://github.com/jingye-xu/TeemoCoding/blob/main/102.%20Binary%20Tree%20Level%20Order%20Traversal.md)

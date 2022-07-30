@@ -28,3 +28,5 @@ This repository stores the solutions for problems posted on Leetcode.
 [704. Binary Search](https://github.com/jingye-xu/TeemoCoding/blob/main/704.%20Binary%20Search.md)
 
 [733. Flood Fill](https://github.com/jingye-xu/TeemoCoding/blob/main/733.%20Flood%20Fill.md)
+
+[746. Min Cost Climbing Stairs](https://github.com/jingye-xu/TeemoCoding/blob/main/746.%20Min%20Cost%20Climbing%20Stairs.md)

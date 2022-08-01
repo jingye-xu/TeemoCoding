@@ -23,6 +23,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [299. Bulls and Cows](https://github.com/jingye-xu/TeemoCoding/blob/main/299.%20Bulls%20and%20Cows.md)
 
+[394. Decode String](https://github.com/jingye-xu/TeemoCoding/blob/main/394.%20Decode%20String.md)
+
 [424. Longest Repeating Character Replacement](https://github.com/jingye-xu/TeemoCoding/blob/main/424.%20Longest%20Repeating%20Character%20Replacement.md)
 
 [438. Find All Anagrams in a String](https://github.com/jingye-xu/TeemoCoding/blob/main/438.%20Find%20All%20Anagrams%20in%20a%20String.md)

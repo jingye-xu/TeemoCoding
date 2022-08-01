@@ -35,6 +35,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [589. N-ary Tree Preorder Traversal](https://github.com/jingye-xu/TeemoCoding/blob/main/589.%20N-ary%20Tree%20Preorder%20Traversal.md)
 
+[692. Top K Frequent Words](https://github.com/jingye-xu/TeemoCoding/blob/main/692.%20Top%20K%20Frequent%20Words.md)
+
 [704. Binary Search](https://github.com/jingye-xu/TeemoCoding/blob/main/704.%20Binary%20Search.md)
 
 [733. Flood Fill](https://github.com/jingye-xu/TeemoCoding/blob/main/733.%20Flood%20Fill.md)

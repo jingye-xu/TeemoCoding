@@ -42,3 +42,5 @@ This repository stores the solutions for problems posted on Leetcode.
 [746. Min Cost Climbing Stairs](https://github.com/jingye-xu/TeemoCoding/blob/main/746.%20Min%20Cost%20Climbing%20Stairs.md)
 
 [844. Backspace String Compare](https://github.com/jingye-xu/TeemoCoding/blob/main/844.%20Backspace%20String%20Compare.md)
+
+[1046. Last Stone Weight](https://github.com/jingye-xu/TeemoCoding/blob/main/1046.%20Last%20Stone%20Weight.md)

@@ -17,6 +17,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [200. Number of Islands](https://github.com/jingye-xu/TeemoCoding/blob/main/200.%20Number%20of%20Islands.md)
 
+[217. Contains Duplicate](https://github.com/jingye-xu/TeemoCoding/blob/main/217.%20Contains%20Duplicate.md)
+
 [235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/jingye-xu/TeemoCoding/blob/main/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md)
 
 [278. First Bad Version](https://github.com/jingye-xu/TeemoCoding/blob/main/278.%20First%20Bad%20Version.md)

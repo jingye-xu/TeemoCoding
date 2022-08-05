@@ -43,6 +43,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [543. Diameter of Binary Tree](https://github.com/jingye-xu/TeemoCoding/blob/main/543.%20Diameter%20of%20Binary%20Tree.md)
 
+[566. Reshape the Matrix](https://github.com/jingye-xu/TeemoCoding/blob/main/566.%20Reshape%20the%20Matrix.md)
+
 [589. N-ary Tree Preorder Traversal](https://github.com/jingye-xu/TeemoCoding/blob/main/589.%20N-ary%20Tree%20Preorder%20Traversal.md)
 
 [692. Top K Frequent Words](https://github.com/jingye-xu/TeemoCoding/blob/main/692.%20Top%20K%20Frequent%20Words.md)

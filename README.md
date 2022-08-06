@@ -13,6 +13,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [70. Climbing Stairs](https://github.com/jingye-xu/TeemoCoding/blob/main/70.%20Climbing%20Stairs.md)
 
+[74. Search a 2D Matrix](https://github.com/jingye-xu/TeemoCoding/blob/main/74.%20Search%20a%202D%20Matrix.md)
+
 [88. Merge Sorted Array](https://github.com/jingye-xu/TeemoCoding/blob/main/88.%20Merge%20Sorted%20Array.md)
 
 [98. Validate Binary Search Tree](https://github.com/jingye-xu/TeemoCoding/blob/main/98.%20Validate%20Binary%20Search%20Tree.md)

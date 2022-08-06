@@ -5,6 +5,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [1. Two Sum](https://github.com/jingye-xu/TeemoCoding/blob/main/1.%20Two%20Sum.md)
 
+[36. Valid Sudoku](https://github.com/jingye-xu/TeemoCoding/blob/main/36.%20Valid%20Sudoku.md)
+
 [53. Maximum Subarray](https://github.com/jingye-xu/TeemoCoding/blob/main/53.%20Maximum%20Subarray.md)
 
 [62. Unique Paths](https://github.com/jingye-xu/TeemoCoding/blob/main/62.%20Unique%20Paths.md)

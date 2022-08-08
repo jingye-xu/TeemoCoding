@@ -33,6 +33,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/jingye-xu/TeemoCoding/blob/main/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md)
 
+[242. Valid Anagram](https://github.com/jingye-xu/TeemoCoding/blob/main/242.%20Valid%20Anagram.md)
+
 [278. First Bad Version](https://github.com/jingye-xu/TeemoCoding/blob/main/278.%20First%20Bad%20Version.md)
 
 [299. Bulls and Cows](https://github.com/jingye-xu/TeemoCoding/blob/main/299.%20Bulls%20and%20Cows.md)

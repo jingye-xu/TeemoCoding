@@ -17,6 +17,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [74. Search a 2D Matrix](https://github.com/jingye-xu/TeemoCoding/blob/main/74.%20Search%20a%202D%20Matrix.md)
 
+[83. Remove Duplicates from Sorted List](https://github.com/jingye-xu/TeemoCoding/blob/main/83.%20Remove%20Duplicates%20from%20Sorted%20List.md)
+
 [88. Merge Sorted Array](https://github.com/jingye-xu/TeemoCoding/blob/main/88.%20Merge%20Sorted%20Array.md)
 
 [98. Validate Binary Search Tree](https://github.com/jingye-xu/TeemoCoding/blob/main/98.%20Validate%20Binary%20Search%20Tree.md)

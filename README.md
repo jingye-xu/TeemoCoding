@@ -5,6 +5,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [1. Two Sum](https://github.com/jingye-xu/TeemoCoding/blob/main/1.%20Two%20Sum.md)
 
+[20. Valid Parentheses](https://github.com/jingye-xu/TeemoCoding/blob/main/20.%20Valid%20Parentheses.md)
+
 [21. Merge Two Sorted Lists](https://github.com/jingye-xu/TeemoCoding/blob/main/21.%20Merge%20Two%20Sorted%20Lists.md)
 
 [36. Valid Sudoku](https://github.com/jingye-xu/TeemoCoding/blob/main/36.%20Valid%20Sudoku.md)

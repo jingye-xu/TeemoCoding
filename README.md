@@ -35,6 +35,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [141. Linked List Cycle](https://github.com/jingye-xu/TeemoCoding/blob/main/141.%20Linked%20List%20Cycle.md)
 
+[144. Binary Tree Preorder Traversal](https://github.com/jingye-xu/TeemoCoding/blob/main/144.%20Binary%20Tree%20Preorder%20Traversal.md)
+
 [200. Number of Islands](https://github.com/jingye-xu/TeemoCoding/blob/main/200.%20Number%20of%20Islands.md)
 
 [203. Remove Linked List Elements](https://github.com/jingye-xu/TeemoCoding/blob/main/203.%20Remove%20Linked%20List%20Elements.md)

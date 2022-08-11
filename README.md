@@ -23,6 +23,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [88. Merge Sorted Array](https://github.com/jingye-xu/TeemoCoding/blob/main/88.%20Merge%20Sorted%20Array.md)
 
+[94. Binary Tree Inorder Traversal](https://github.com/jingye-xu/TeemoCoding/blob/main/94.%20Binary%20Tree%20Inorder%20Traversal.md)
+
 [98. Validate Binary Search Tree](https://github.com/jingye-xu/TeemoCoding/blob/main/98.%20Validate%20Binary%20Search%20Tree.md)
 
 [102. Binary Tree Level Order Traversal](https://github.com/jingye-xu/TeemoCoding/blob/main/102.%20Binary%20Tree%20Level%20Order%20Traversal.md)

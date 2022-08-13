@@ -51,6 +51,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [206. Reverse Linked List](https://github.com/jingye-xu/TeemoCoding/blob/main/206.%20Reverse%20Linked%20List.md)
 
+[226. Invert Binary Tree](226.%20Invert%20Binary%20Tree.md)
+
 [217. Contains Duplicate](https://github.com/jingye-xu/TeemoCoding/blob/main/217.%20Contains%20Duplicate.md)
 
 [232. Implement Queue using Stacks](https://github.com/jingye-xu/TeemoCoding/blob/main/232.%20Implement%20Queue%20using%20Stacks.md)

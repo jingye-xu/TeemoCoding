@@ -91,6 +91,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [700. Search in a Binary Search Tree](700.%20Search%20in%20a%20Binary%20Search%20Tree.md)
 
+[701. Insert into a Binary Search Tree](701.%20Insert%20into%20a%20Binary%20Search%20Tree.md)
+
 [704. Binary Search](https://github.com/jingye-xu/TeemoCoding/blob/main/704.%20Binary%20Search.md)
 
 [733. Flood Fill](https://github.com/jingye-xu/TeemoCoding/blob/main/733.%20Flood%20Fill.md)

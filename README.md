@@ -9,6 +9,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [21. Merge Two Sorted Lists](https://github.com/jingye-xu/TeemoCoding/blob/main/21.%20Merge%20Two%20Sorted%20Lists.md)
 
+[35. Search Insert Position](35.%20Search%20Insert%20Position.md)
+
 [36. Valid Sudoku](https://github.com/jingye-xu/TeemoCoding/blob/main/36.%20Valid%20Sudoku.md)
 
 [53. Maximum Subarray](https://github.com/jingye-xu/TeemoCoding/blob/main/53.%20Maximum%20Subarray.md)

@@ -69,6 +69,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [278. First Bad Version](https://github.com/jingye-xu/TeemoCoding/blob/main/278.%20First%20Bad%20Version.md)
 
+[283. Move Zeroes](283.%20Move%20Zeroes.md)
+
 [299. Bulls and Cows](https://github.com/jingye-xu/TeemoCoding/blob/main/299.%20Bulls%20and%20Cows.md)
 
 [350. Intersection of Two Arrays II](https://github.com/jingye-xu/TeemoCoding/blob/main/350.%20Intersection%20of%20Two%20Arrays%20II.md)

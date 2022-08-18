@@ -49,6 +49,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [145. Binary Tree Postorder Traversal](https://github.com/jingye-xu/TeemoCoding/blob/main/145.%20Binary%20Tree%20Postorder%20Traversal.md)
 
+[167. Two Sum II - Input Array Is Sorted](167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.md)
+
 [189. Rotate Array](189.%20Rotate%20Array.md)
 
 [200. Number of Islands](https://github.com/jingye-xu/TeemoCoding/blob/main/200.%20Number%20of%20Islands.md)

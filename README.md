@@ -75,6 +75,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [299. Bulls and Cows](https://github.com/jingye-xu/TeemoCoding/blob/main/299.%20Bulls%20and%20Cows.md)
 
+[344. Reverse String](344.%20Reverse%20String.md)
+
 [350. Intersection of Two Arrays II](https://github.com/jingye-xu/TeemoCoding/blob/main/350.%20Intersection%20of%20Two%20Arrays%20II.md)
 
 [383. Ransom Note](https://github.com/jingye-xu/TeemoCoding/blob/main/383.%20Ransom%20Note.md)

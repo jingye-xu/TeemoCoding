@@ -1,0 +1,70 @@
+# 557. Reverse Words in a String III
+
+## Problem
+
+Given a string `s`, reverse the order of characters in each word within a sentence while still preserving whitespace and initial word order.
+
+## Examples
+
+### Example 1
+
+```
+Input: s = "Let's take LeetCode contest"
+Output: "s'teL ekat edoCteeL tsetnoc"
+```
+
+### Example 2
+
+```
+Input: s = "God Ding"
+Output: "doG gniD"
+```
+
+## Constraints
+
+* 1 <= s.length <= 5 * 10^4
+* s contains printable ASCII characters.
+* s does not contain any leading or trailing spaces.
+* There is at least one word in s.
+* All the words in s are separated by a single space.
+
+## Solutions
+
+### Python3
+
+```
+class Solution:
+    def reverseWords(self, s: str) -> str:
+        
+        res = ""
+        
+        # two pointers
+        i = 0
+        j = 0
+        
+        # go through the str
+        while j < len(s):
+            if s[j] == " ":
+                res += self.reverseSingleWord(s[i:j]) + " "
+                i = j + 1
+            j += 1
+        
+        # we need to append the last word
+        res += self.reverseSingleWord(s[i:])
+        
+        return res
+    
+    def reverseSingleWord(self, s: str) -> str:
+        
+        res = ""
+        
+        # one pointer starts from the last element
+        i = len(s) - 1
+        
+        # go through the str
+        while i >= 0:
+            res += s[i]
+            i -= 1
+
+        return res
+```

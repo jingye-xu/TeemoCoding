@@ -3,7 +3,9 @@ This repository stores the solutions for problems posted on Leetcode.
 
 ## Table of Contents
 
-[1. Two Sum](https://github.com/jingye-xu/TeemoCoding/blob/main/1.%20Two%20Sum.md)
+[1. Two Sum](1.%20Two%20Sum.md)
+
+[3. Longest Substring Without Repeating Characters](3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
 
 [19. Remove Nth Node From End of List](19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
 

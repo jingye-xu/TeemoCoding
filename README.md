@@ -109,6 +109,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [692. Top K Frequent Words](https://github.com/jingye-xu/TeemoCoding/blob/main/692.%20Top%20K%20Frequent%20Words.md)
 
+[695. Max Area of Island](695.%20Max%20Area%20of%20Island.md)
+
 [700. Search in a Binary Search Tree](700.%20Search%20in%20a%20Binary%20Search%20Tree.md)
 
 [701. Insert into a Binary Search Tree](701.%20Insert%20into%20a%20Binary%20Search%20Tree.md)

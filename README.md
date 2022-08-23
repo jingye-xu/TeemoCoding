@@ -103,7 +103,9 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [567. Permutation in String](567.%20Permutation%20in%20String.md)
 
-[589. N-ary Tree Preorder Traversal](https://github.com/jingye-xu/TeemoCoding/blob/main/589.%20N-ary%20Tree%20Preorder%20Traversal.md)
+[589. N-ary Tree Preorder Traversal](589.%20N-ary%20Tree%20Preorder%20Traversal.md)
+
+[617. Merge Two Binary Trees](617.%20Merge%20Two%20Binary%20Trees.md)
 
 [653. Two Sum IV - Input is a BST](653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST.md)
 

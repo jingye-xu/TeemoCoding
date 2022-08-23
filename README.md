@@ -43,6 +43,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [112. Path Sum](112.%20Path%20Sum.md)
 
+[116. Populating Next Right Pointers in Each Node](116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)
+
 [118. Pascal's Triangle](https://github.com/jingye-xu/TeemoCoding/blob/main/118.%20Pascal's%20Triangle.md)
 
 [121. Best Time to Buy and Sell Stock](https://github.com/jingye-xu/TeemoCoding/blob/main/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)

@@ -131,6 +131,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [876. Middle of the Linked List](876.%20Middle%20of%20the%20Linked%20List.md)
 
+[994. Rotting Oranges](994.%20Rotting%20Oranges.md)
+
 [977. Squares of a Sorted Array](977.%20Squares%20of%20a%20Sorted%20Array.md)
 
 [1046. Last Stone Weight](https://github.com/jingye-xu/TeemoCoding/blob/main/1046.%20Last%20Stone%20Weight.md)

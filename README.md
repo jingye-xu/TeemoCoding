@@ -51,6 +51,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [118. Pascal's Triangle](https://github.com/jingye-xu/TeemoCoding/blob/main/118.%20Pascal's%20Triangle.md)
 
+[120. Triangle](120.%20Triangle.md)
+
 [121. Best Time to Buy and Sell Stock](https://github.com/jingye-xu/TeemoCoding/blob/main/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
 
 [141. Linked List Cycle](https://github.com/jingye-xu/TeemoCoding/blob/main/141.%20Linked%20List%20Cycle.md)

@@ -65,6 +65,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [189. Rotate Array](189.%20Rotate%20Array.md)
 
+[191. Number of 1 Bits](191.%20Number%20of%201%20Bits.md)
+
 [198. House Robber](198.%20House%20Robber.md)
 
 [200. Number of Islands](https://github.com/jingye-xu/TeemoCoding/blob/main/200.%20Number%20of%20Islands.md)

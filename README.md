@@ -55,6 +55,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [121. Best Time to Buy and Sell Stock](https://github.com/jingye-xu/TeemoCoding/blob/main/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
 
+[136. Single Number](136.%20Single%20Number.md)
+
 [141. Linked List Cycle](https://github.com/jingye-xu/TeemoCoding/blob/main/141.%20Linked%20List%20Cycle.md)
 
 [144. Binary Tree Preorder Traversal](https://github.com/jingye-xu/TeemoCoding/blob/main/144.%20Binary%20Tree%20Preorder%20Traversal.md)
@@ -64,6 +66,8 @@ This repository stores the solutions for problems posted on Leetcode.
 [167. Two Sum II - Input Array Is Sorted](167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.md)
 
 [189. Rotate Array](189.%20Rotate%20Array.md)
+
+[190. Reverse Bits](190.%20Reverse%20Bits.md)
 
 [191. Number of 1 Bits](191.%20Number%20of%201%20Bits.md)
 

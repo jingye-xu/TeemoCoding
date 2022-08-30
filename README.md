@@ -153,4 +153,6 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [994. Rotting Oranges](994.%20Rotting%20Oranges.md)
 
-[1046. Last Stone Weight](https://github.com/jingye-xu/TeemoCoding/blob/main/1046.%20Last%20Stone%20Weight.md)
+[1046. Last Stone Weight](1046.%20Last%20Stone%20Weight.md)
+
+[1523. Count Odd Numbers in an Interval Range](1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.md)

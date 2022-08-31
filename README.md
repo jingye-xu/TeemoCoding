@@ -155,6 +155,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [1046. Last Stone Weight](1046.%20Last%20Stone%20Weight.md)
 
+[1281. Subtract the Product and Sum of Digits of an Integer](1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.md)
+
 [1491. Average Salary Excluding the Minimum and Maximum Salary](1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.md)
 
 [1523. Count Odd Numbers in an Interval Range](1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.md)

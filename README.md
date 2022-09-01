@@ -162,3 +162,5 @@ This repository stores the solutions for problems posted on Leetcode.
 [1491. Average Salary Excluding the Minimum and Maximum Salary](1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.md)
 
 [1523. Count Odd Numbers in an Interval Range](1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.md)
+
+[1779. Find Nearest Point That Has the Same X or Y Coordinate](1779.%20Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate.md)

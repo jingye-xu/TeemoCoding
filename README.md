@@ -145,9 +145,11 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [784. Letter Case Permutation](784.%20Letter%20Case%20Permutation.md)
 
-[844. Backspace String Compare](https://github.com/jingye-xu/TeemoCoding/blob/main/844.%20Backspace%20String%20Compare.md)
+[844. Backspace String Compare](844.%20Backspace%20String%20Compare.md)
 
 [876. Middle of the Linked List](876.%20Middle%20of%20the%20Linked%20List.md)
+
+[976. Largest Perimeter Triangle](976.%20Largest%20Perimeter%20Triangle.md)
 
 [977. Squares of a Sorted Array](977.%20Squares%20of%20a%20Sorted%20Array.md)
 

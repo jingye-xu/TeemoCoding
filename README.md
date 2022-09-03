@@ -169,4 +169,6 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [1779. Find Nearest Point That Has the Same X or Y Coordinate](1779.%20Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate.md)
 
+[1790. Check if One String Swap Can Make Strings Equal](1790.%20Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal.md)
+
 [1822. Sign of the Product of an Array](1822.%20Sign%20of%20the%20Product%20of%20an%20Array.md)

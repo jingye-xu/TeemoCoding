@@ -164,3 +164,5 @@ This repository stores the solutions for problems posted on Leetcode.
 [1523. Count Odd Numbers in an Interval Range](1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.md)
 
 [1779. Find Nearest Point That Has the Same X or Y Coordinate](1779.%20Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate.md)
+
+[1822. Sign of the Product of an Array](1822.%20Sign%20of%20the%20Product%20of%20an%20Array.md)

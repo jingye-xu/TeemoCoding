@@ -111,7 +111,9 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [424. Longest Repeating Character Replacement](https://github.com/jingye-xu/TeemoCoding/blob/main/424.%20Longest%20Repeating%20Character%20Replacement.md)
 
-[438. Find All Anagrams in a String](https://github.com/jingye-xu/TeemoCoding/blob/main/438.%20Find%20All%20Anagrams%20in%20a%20String.md)
+[438. Find All Anagrams in a String](438.%20Find%20All%20Anagrams%20in%20a%20String.md)
+
+[496. Next Greater Element I](496.%20Next%20Greater%20Element%20I.md)
 
 [509. Fibonacci Number](509.%20Fibonacci%20Number.md)
 

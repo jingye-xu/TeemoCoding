@@ -171,6 +171,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [1523. Count Odd Numbers in an Interval Range](1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.md)
 
+[1572. Matrix Diagonal Sum](1572.%20Matrix%20Diagonal%20Sum.md)
+
 [1588. Sum of All Odd Length Subarrays](1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays.md)
 
 [1672. Richest Customer Wealth](1672.%20Richest%20Customer%20Wealth.md)

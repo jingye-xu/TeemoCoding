@@ -173,6 +173,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [1588. Sum of All Odd Length Subarrays](1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays.md)
 
+[1672. Richest Customer Wealth](1672.%20Richest%20Customer%20Wealth.md)
+
 [1779. Find Nearest Point That Has the Same X or Y Coordinate](1779.%20Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate.md)
 
 [1790. Check if One String Swap Can Make Strings Equal](1790.%20Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal.md)

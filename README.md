@@ -107,6 +107,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [387. First Unique Character in a String](https://github.com/jingye-xu/TeemoCoding/blob/main/387.%20First%20Unique%20Character%20in%20a%20String.md)
 
+[389. Find the Difference](389.%20Find%20the%20Difference.md)
+
 [394. Decode String](https://github.com/jingye-xu/TeemoCoding/blob/main/394.%20Decode%20String.md)
 
 [424. Longest Repeating Character Replacement](https://github.com/jingye-xu/TeemoCoding/blob/main/424.%20Longest%20Repeating%20Character%20Replacement.md)

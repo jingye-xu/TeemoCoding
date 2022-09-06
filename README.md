@@ -177,6 +177,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [1672. Richest Customer Wealth](1672.%20Richest%20Customer%20Wealth.md)
 
+[1768. Merge Strings Alternately](1768.%20Merge%20Strings%20Alternately.md)
+
 [1779. Find Nearest Point That Has the Same X or Y Coordinate](1779.%20Find%20Nearest%20Point%20That%20Has%20the%20Same%20X%20or%20Y%20Coordinate.md)
 
 [1790. Check if One String Swap Can Make Strings Equal](1790.%20Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal.md)

@@ -169,6 +169,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [1281. Subtract the Product and Sum of Digits of an Integer](1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.md)
 
+[1309. Decrypt String from Alphabet to Integer Mapping](1309.%20Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping.md)
+
 [1491. Average Salary Excluding the Minimum and Maximum Salary](1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.md)
 
 [1502. Can Make Arithmetic Progression From Sequence](1502.%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence.md)

@@ -109,7 +109,9 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [389. Find the Difference](389.%20Find%20the%20Difference.md)
 
-[394. Decode String](https://github.com/jingye-xu/TeemoCoding/blob/main/394.%20Decode%20String.md)
+[394. Decode String](394.%20Decode%20String.md)
+
+[404. Sum of Left Leaves](404.%20Sum%20of%20Left%20Leaves.md)
 
 [424. Longest Repeating Character Replacement](https://github.com/jingye-xu/TeemoCoding/blob/main/424.%20Longest%20Repeating%20Character%20Replacement.md)
 

@@ -97,7 +97,9 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [283. Move Zeroes](283.%20Move%20Zeroes.md)
 
-[299. Bulls and Cows](https://github.com/jingye-xu/TeemoCoding/blob/main/299.%20Bulls%20and%20Cows.md)
+[299. Bulls and Cows](299.%20Bulls%20and%20Cows.md)
+
+[303. Range Sum Query - Immutable](303.%20Range%20Sum%20Query%20-%20Immutable.md)
 
 [344. Reverse String](344.%20Reverse%20String.md)
 

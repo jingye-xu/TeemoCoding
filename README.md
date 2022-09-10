@@ -189,6 +189,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [1588. Sum of All Odd Length Subarrays](1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays.md)
 
+[1603. Design Parking System](1603.%20Design%20Parking%20System.md)
+
 [1672. Richest Customer Wealth](1672.%20Richest%20Customer%20Wealth.md)
 
 [1678. Goal Parser Interpretation](1678.%20Goal%20Parser%20Interpretation.md)

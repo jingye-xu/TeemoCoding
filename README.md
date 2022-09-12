@@ -171,6 +171,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [1046. Last Stone Weight](1046.%20Last%20Stone%20Weight.md)
 
+[1137. N-th Tribonacci Number](1137.%20N-th%20Tribonacci%20Number.md)
+
 [1232. Check If It Is a Straight Line](1232.%20Check%20If%20It%20Is%20a%20Straight%20Line.md)
 
 [1281. Subtract the Product and Sum of Digits of an Integer](1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.md)

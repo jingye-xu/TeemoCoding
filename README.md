@@ -81,9 +81,11 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [206. Reverse Linked List](https://github.com/jingye-xu/TeemoCoding/blob/main/206.%20Reverse%20Linked%20List.md)
 
-[226. Invert Binary Tree](226.%20Invert%20Binary%20Tree.md)
+[213. House Robber II](213.%20House%20Robber%20II.md)
 
-[217. Contains Duplicate](https://github.com/jingye-xu/TeemoCoding/blob/main/217.%20Contains%20Duplicate.md)
+[217. Contains Duplicate](217.%20Contains%20Duplicate.md)
+
+[226. Invert Binary Tree](226.%20Invert%20Binary%20Tree.md)
 
 [231. Power of Two](231.%20Power%20of%20Two.md)
 

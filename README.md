@@ -153,9 +153,11 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [709. To Lower Case](709.%20To%20Lower%20Case.md)
 
-[733. Flood Fill](https://github.com/jingye-xu/TeemoCoding/blob/main/733.%20Flood%20Fill.md)
+[733. Flood Fill](733.%20Flood%20Fill.md)
 
-[746. Min Cost Climbing Stairs](https://github.com/jingye-xu/TeemoCoding/blob/main/746.%20Min%20Cost%20Climbing%20Stairs.md)
+[740. Delete and Earn](740.%20Delete%20and%20Earn.md)
+
+[746. Min Cost Climbing Stairs](746.%20Min%20Cost%20Climbing%20Stairs.md)
 
 [784. Letter Case Permutation](784.%20Letter%20Case%20Permutation.md)
 

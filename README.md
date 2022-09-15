@@ -19,9 +19,11 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [46. Permutations](46.%20Permutations.md)
 
-[53. Maximum Subarray](https://github.com/jingye-xu/TeemoCoding/blob/main/53.%20Maximum%20Subarray.md)
+[53. Maximum Subarray](53.%20Maximum%20Subarray.md)
 
-[62. Unique Paths](https://github.com/jingye-xu/TeemoCoding/blob/main/62.%20Unique%20Paths.md)
+[55. Jump Game](55.%20Jump%20Game.md)
+
+[62. Unique Paths](62.%20Unique%20Paths.md)
 
 [70. Climbing Stairs](https://github.com/jingye-xu/TeemoCoding/blob/main/70.%20Climbing%20Stairs.md)
 

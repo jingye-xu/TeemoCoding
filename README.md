@@ -15,7 +15,9 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [35. Search Insert Position](35.%20Search%20Insert%20Position.md)
 
-[36. Valid Sudoku](https://github.com/jingye-xu/TeemoCoding/blob/main/36.%20Valid%20Sudoku.md)
+[36. Valid Sudoku](36.%20Valid%20Sudoku.md)
+
+[45. Jump Game II](45.%20Jump%20Game%20II.md)
 
 [46. Permutations](46.%20Permutations.md)
 

@@ -169,6 +169,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [876. Middle of the Linked List](876.%20Middle%20of%20the%20Linked%20List.md)
 
+[918. Maximum Sum Circular Subarray](918.%20Maximum%20Sum%20Circular%20Subarray.md)
+
 [953. Verifying an Alien Dictionary](953.%20Verifying%20an%20Alien%20Dictionary.md)
 
 [976. Largest Perimeter Triangle](976.%20Largest%20Perimeter%20Triangle.md)

@@ -57,7 +57,9 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [120. Triangle](120.%20Triangle.md)
 
-[121. Best Time to Buy and Sell Stock](https://github.com/jingye-xu/TeemoCoding/blob/main/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
+[121. Best Time to Buy and Sell Stock](121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.md)
+
+[122. Best Time to Buy and Sell Stock II](122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)
 
 [136. Single Number](136.%20Single%20Number.md)
 

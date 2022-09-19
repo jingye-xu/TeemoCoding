@@ -163,6 +163,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [709. To Lower Case](709.%20To%20Lower%20Case.md)
 
+[714. Best Time to Buy and Sell Stock with Transaction Fee](714.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.md)
+
 [733. Flood Fill](733.%20Flood%20Fill.md)
 
 [740. Delete and Earn](740.%20Delete%20and%20Earn.md)

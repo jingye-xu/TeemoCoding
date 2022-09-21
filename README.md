@@ -17,6 +17,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [36. Valid Sudoku](36.%20Valid%20Sudoku.md)
 
+[42. Trapping Rain Water](42.%20Trapping%20Rain%20Water.md)
+
 [45. Jump Game II](45.%20Jump%20Game%20II.md)
 
 [46. Permutations](46.%20Permutations.md)
@@ -63,7 +65,9 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [136. Single Number](136.%20Single%20Number.md)
 
-[141. Linked List Cycle](https://github.com/jingye-xu/TeemoCoding/blob/main/141.%20Linked%20List%20Cycle.md)
+[139. Word Break](139.%20Word%20Break.md)
+
+[141. Linked List Cycle](141.%20Linked%20List%20Cycle.md)
 
 [144. Binary Tree Preorder Traversal](144.%20Binary%20Tree%20Preorder%20Traversal.md)
 

@@ -37,9 +37,11 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [83. Remove Duplicates from Sorted List](https://github.com/jingye-xu/TeemoCoding/blob/main/83.%20Remove%20Duplicates%20from%20Sorted%20List.md)
 
-[88. Merge Sorted Array](https://github.com/jingye-xu/TeemoCoding/blob/main/88.%20Merge%20Sorted%20Array.md)
+[88. Merge Sorted Array](88.%20Merge%20Sorted%20Array.md)
 
-[94. Binary Tree Inorder Traversal](https://github.com/jingye-xu/TeemoCoding/blob/main/94.%20Binary%20Tree%20Inorder%20Traversal.md)
+[91. Decode Ways](91.%20Decode%20Ways.md)
+
+[94. Binary Tree Inorder Traversal](94.%20Binary%20Tree%20Inorder%20Traversal.md)
 
 [98. Validate Binary Search Tree](https://github.com/jingye-xu/TeemoCoding/blob/main/98.%20Validate%20Binary%20Search%20Tree.md)
 
@@ -131,7 +133,9 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [404. Sum of Left Leaves](404.%20Sum%20of%20Left%20Leaves.md)
 
-[424. Longest Repeating Character Replacement](https://github.com/jingye-xu/TeemoCoding/blob/main/424.%20Longest%20Repeating%20Character%20Replacement.md)
+[413. Arithmetic Slices](413.%20Arithmetic%20Slices.md)
+
+[424. Longest Repeating Character Replacement](424.%20Longest%20Repeating%20Character%20Replacement.md)
 
 [438. Find All Anagrams in a String](438.%20Find%20All%20Anagrams%20in%20a%20String.md)
 

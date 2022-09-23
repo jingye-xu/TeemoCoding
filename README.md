@@ -69,6 +69,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [122. Best Time to Buy and Sell Stock II](122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.md)
 
+[125. Valid Palindrome](125.%20Valid%20Palindrome.md)
+
 [136. Single Number](136.%20Single%20Number.md)
 
 [139. Word Break](139.%20Word%20Break.md)

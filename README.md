@@ -57,7 +57,9 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [116. Populating Next Right Pointers in Each Node](116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.md)
 
-[118. Pascal's Triangle](https://github.com/jingye-xu/TeemoCoding/blob/main/118.%20Pascal's%20Triangle.md)
+[118. Pascal's Triangle](118.%20Pascal's%20Triangle.md)
+
+[119. Pascal's Triangle II](119.%20Pascal's%20Triangle%20II.md)
 
 [120. Triangle](120.%20Triangle.md)
 

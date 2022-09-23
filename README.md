@@ -43,7 +43,9 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [94. Binary Tree Inorder Traversal](94.%20Binary%20Tree%20Inorder%20Traversal.md)
 
-[98. Validate Binary Search Tree](https://github.com/jingye-xu/TeemoCoding/blob/main/98.%20Validate%20Binary%20Search%20Tree.md)
+[96. Unique Binary Search Trees](96.%20Unique%20Binary%20Search%20Trees.md)
+
+[98. Validate Binary Search Tree](98.%20Validate%20Binary%20Search%20Tree.md)
 
 [101. Symmetric Tree](101.%20Symmetric%20Tree.md)
 
@@ -109,9 +111,11 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [235. Lowest Common Ancestor of a Binary Search Tree](https://github.com/jingye-xu/TeemoCoding/blob/main/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.md)
 
-[242. Valid Anagram](https://github.com/jingye-xu/TeemoCoding/blob/main/242.%20Valid%20Anagram.md)
+[242. Valid Anagram](242.%20Valid%20Anagram.md)
 
-[278. First Bad Version](https://github.com/jingye-xu/TeemoCoding/blob/main/278.%20First%20Bad%20Version.md)
+[264. Ugly Number II](264.%20Ugly%20Number%20II.md)
+
+[278. First Bad Version](278.%20First%20Bad%20Version.md)
 
 [283. Move Zeroes](283.%20Move%20Zeroes.md)
 

@@ -87,6 +87,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [168. Excel Sheet Column Title](168.%20Excel%20Sheet%20Column%20Title.md)
 
+[171. Excel Sheet Column Number](171.%20Excel%20Sheet%20Column%20Number.md)
+
 [189. Rotate Array](189.%20Rotate%20Array.md)
 
 [190. Reverse Bits](190.%20Reverse%20Bits.md)

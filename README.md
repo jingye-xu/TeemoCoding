@@ -151,6 +151,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [438. Find All Anagrams in a String](438.%20Find%20All%20Anagrams%20in%20a%20String.md)
 
+[462. Minimum Moves to Equal Array Elements II](462.%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20II.md)
+
 [496. Next Greater Element I](496.%20Next%20Greater%20Element%20I.md)
 
 [509. Fibonacci Number](509.%20Fibonacci%20Number.md)

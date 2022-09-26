@@ -29,7 +29,7 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [62. Unique Paths](62.%20Unique%20Paths.md)
 
-[63. Unique Paths II](63.%20Unique%20PathsII.md)
+[63. Unique Paths II](63.%20Unique%20Paths%20II.md)
 
 [70. Climbing Stairs](https://github.com/jingye-xu/TeemoCoding/blob/main/70.%20Climbing%20Stairs.md)
 

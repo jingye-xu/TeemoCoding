@@ -227,6 +227,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [1309. Decrypt String from Alphabet to Integer Mapping](1309.%20Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping.md)
 
+[1314. Matrix Block Sum](1314.%20Matrix%20Block%20Sum.md)
+
 [1356. Sort Integers by The Number of 1 Bits](1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits.md)
 
 [1491. Average Salary Excluding the Minimum and Maximum Salary](1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.md)

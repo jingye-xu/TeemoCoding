@@ -31,9 +31,11 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [63. Unique Paths II](63.%20Unique%20Paths%20II.md)
 
-[70. Climbing Stairs](https://github.com/jingye-xu/TeemoCoding/blob/main/70.%20Climbing%20Stairs.md)
+[64. Minimum Path Sum](64.%20Minimum%20Path%20Sum.md)
 
-[74. Search a 2D Matrix](https://github.com/jingye-xu/TeemoCoding/blob/main/74.%20Search%20a%202D%20Matrix.md)
+[70. Climbing Stairs](70.%20Climbing%20Stairs.md)
+
+[74. Search a 2D Matrix](74.%20Search%20a%202D%20Matrix.md)
 
 [77. Combinations](77.%20Combinations.md)
 
@@ -110,6 +112,8 @@ This repository stores the solutions for problems posted on Leetcode.
 [213. House Robber II](213.%20House%20Robber%20II.md)
 
 [217. Contains Duplicate](217.%20Contains%20Duplicate.md)
+
+[221. Maximal Square](221.%20Maximal%20Square.md)
 
 [226. Invert Binary Tree](226.%20Invert%20Binary%20Tree.md)
 

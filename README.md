@@ -167,9 +167,11 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [509. Fibonacci Number](509.%20Fibonacci%20Number.md)
 
+[516. Longest Palindromic Subsequence](516.%20Longest%20Palindromic%20Subsequence.md)
+
 [542. 01 Matrix](542.%2001%20Matrix.md)
 
-[543. Diameter of Binary Tree](https://github.com/jingye-xu/TeemoCoding/blob/main/543.%20Diameter%20of%20Binary%20Tree.md)
+[543. Diameter of Binary Tree](543.%20Diameter%20of%20Binary%20Tree.md)
 
 [557. Reverse Words in a String III](557.%20Reverse%20Words%20in%20a%20String%20III.md)
 

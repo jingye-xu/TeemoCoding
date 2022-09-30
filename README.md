@@ -7,6 +7,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [3. Longest Substring Without Repeating Characters](3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
 
+[5. Longest Palindromic Substring](5.%20Longest%20Palindromic%20Substring.md)
+
 [19. Remove Nth Node From End of List](19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
 
 [20. Valid Parentheses](https://github.com/jingye-xu/TeemoCoding/blob/main/20.%20Valid%20Parentheses.md)

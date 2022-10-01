@@ -155,6 +155,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [389. Find the Difference](389.%20Find%20the%20Difference.md)
 
+[392. Is Subsequence](392.%20Is%20Subsequence.md)
+
 [394. Decode String](394.%20Decode%20String.md)
 
 [404. Sum of Left Leaves](404.%20Sum%20of%20Left%20Leaves.md)

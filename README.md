@@ -135,6 +135,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [299. Bulls and Cows](299.%20Bulls%20and%20Cows.md)
 
+[300. Longest Increasing Subsequence](300.%20Longest%20Increasing%20Subsequence.md)
+
 [303. Range Sum Query - Immutable](303.%20Range%20Sum%20Query%20-%20Immutable.md)
 
 [304. Range Sum Query 2D - Immutable](304.%20Range%20Sum%20Query%202D%20-%20Immutable.md)

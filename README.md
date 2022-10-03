@@ -145,6 +145,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [309. Best Time to Buy and Sell Stock with Cooldown](309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.md)
 
+[322. Coin Change](322.%20Coin%20Change.md)
+
 [344. Reverse String](344.%20Reverse%20String.md)
 
 [350. Intersection of Two Arrays II](350.%20Intersection%20of%20Two%20Arrays%20II.md)

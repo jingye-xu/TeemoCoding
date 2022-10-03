@@ -151,6 +151,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [350. Intersection of Two Arrays II](350.%20Intersection%20of%20Two%20Arrays%20II.md)
 
+[374. Guess Number Higher or Lower](374.%20Guess%20Number%20Higher%20or%20Lower.md)
+
 [376. Wiggle Subsequence](376.%20Wiggle%20Subsequence.md)
 
 [383. Ransom Note](383.%20Ransom%20Note.md)

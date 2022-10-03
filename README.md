@@ -37,6 +37,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [70. Climbing Stairs](70.%20Climbing%20Stairs.md)
 
+[72. Edit Distance](72.%20Edit%20Distance.md)
+
 [74. Search a 2D Matrix](74.%20Search%20a%202D%20Matrix.md)
 
 [77. Combinations](77.%20Combinations.md)

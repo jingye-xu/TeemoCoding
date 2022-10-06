@@ -151,13 +151,15 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [350. Intersection of Two Arrays II](350.%20Intersection%20of%20Two%20Arrays%20II.md)
 
+[367. Valid Perfect Square](367.%20Valid%20Perfect%20Square.md)
+
 [374. Guess Number Higher or Lower](374.%20Guess%20Number%20Higher%20or%20Lower.md)
 
 [376. Wiggle Subsequence](376.%20Wiggle%20Subsequence.md)
 
 [383. Ransom Note](383.%20Ransom%20Note.md)
 
-[387. First Unique Character in a String](https://github.com/jingye-xu/TeemoCoding/blob/main/387.%20First%20Unique%20Character%20in%20a%20String.md)
+[387. First Unique Character in a String](387.%20First%20Unique%20Character%20in%20a%20String.md)
 
 [389. Find the Difference](389.%20Find%20the%20Difference.md)
 

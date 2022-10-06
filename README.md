@@ -225,6 +225,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [844. Backspace String Compare](844.%20Backspace%20String%20Compare.md)
 
+[852. Peak Index in a Mountain Array](852.%20Peak%20Index%20in%20a%20Mountain%20Array.md)
+
 [876. Middle of the Linked List](876.%20Middle%20of%20the%20Linked%20List.md)
 
 [918. Maximum Sum Circular Subarray](918.%20Maximum%20Sum%20Circular%20Subarray.md)

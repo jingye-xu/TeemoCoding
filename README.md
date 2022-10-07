@@ -263,6 +263,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [1356. Sort Integers by The Number of 1 Bits](1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits.md)
 
+[1385. Find the Distance Value Between Two Arrays](1385.%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays.md)
+
 [1491. Average Salary Excluding the Minimum and Maximum Salary](1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.md)
 
 [1502. Can Make Arithmetic Progression From Sequence](1502.%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence.md)

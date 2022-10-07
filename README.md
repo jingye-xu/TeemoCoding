@@ -35,6 +35,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [64. Minimum Path Sum](64.%20Minimum%20Path%20Sum.md)
 
+[69. Sqrt(x)](69.%20Sqrt(x).md)
+
 [70. Climbing Stairs](70.%20Climbing%20Stairs.md)
 
 [72. Edit Distance](72.%20Edit%20Distance.md)
@@ -220,6 +222,8 @@ This repository stores the solutions for problems posted on Leetcode.
 [733. Flood Fill](733.%20Flood%20Fill.md)
 
 [740. Delete and Earn](740.%20Delete%20and%20Earn.md)
+
+[744. Find Smallest Letter Greater Than Target](744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.md)
 
 [746. Min Cost Climbing Stairs](746.%20Min%20Cost%20Climbing%20Stairs.md)
 

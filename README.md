@@ -179,6 +179,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [438. Find All Anagrams in a String](438.%20Find%20All%20Anagrams%20in%20a%20String.md)
 
+[441. Arranging Coins](441.%20Arranging%20Coins.md)
+
 [462. Minimum Moves to Equal Array Elements II](462.%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20II.md)
 
 [496. Next Greater Element I](496.%20Next%20Greater%20Element%20I.md)
@@ -277,6 +279,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [1523. Count Odd Numbers in an Interval Range](1523.%20Count%20Odd%20Numbers%20in%20an%20Interval%20Range.md)
 
+[1539. Kth Missing Positive Number](1539.%20Kth%20Missing%20Positive%20Number.md)
+
 [1567. Maximum Length of Subarray With Positive Product](1567.%20Maximum%20Length%20of%20Subarray%20With%20Positive%20Product.md)
 
 [1572. Matrix Diagonal Sum](1572.%20Matrix%20Diagonal%20Sum.md)
@@ -284,6 +288,8 @@ This repository stores the solutions for problems posted on Leetcode.
 [1588. Sum of All Odd Length Subarrays](1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays.md)
 
 [1603. Design Parking System](1603.%20Design%20Parking%20System.md)
+
+[1608. Special Array With X Elements Greater Than or Equal X](1608.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X.md)
 
 [1672. Richest Customer Wealth](1672.%20Richest%20Customer%20Wealth.md)
 

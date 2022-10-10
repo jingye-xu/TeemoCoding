@@ -269,6 +269,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [1314. Matrix Block Sum](1314.%20Matrix%20Block%20Sum.md)
 
+[1351. Count Negative Numbers in a Sorted Matrix](1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.md)
+
 [1356. Sort Integers by The Number of 1 Bits](1356.%20Sort%20Integers%20by%20The%20Number%20of%201%20Bits.md)
 
 [1385. Find the Distance Value Between Two Arrays](1385.%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays.md)

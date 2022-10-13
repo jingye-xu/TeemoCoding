@@ -15,6 +15,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [21. Merge Two Sorted Lists](21.%20Merge%20Two%20Sorted%20Lists.md)
 
+[33. Search in Rotated Sorted Array](33.%20Search%20in%20Rotated%20Sorted%20Array.md)
+
 [34. Find First and Last Position of Element in Sorted Array](34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)
 
 [35. Search Insert Position](35.%20Search%20Insert%20Position.md)

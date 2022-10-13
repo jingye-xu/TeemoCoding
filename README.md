@@ -205,6 +205,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [617. Merge Two Binary Trees](617.%20Merge%20Two%20Binary%20Trees.md)
 
+[633. Sum of Square Numbers](633.%20Sum%20of%20Square%20Numbers.md)
+
 [653. Two Sum IV - Input is a BST](653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST.md)
 
 [692. Top K Frequent Words](692.%20Top%20K%20Frequent%20Words.md)
@@ -268,6 +270,10 @@ This repository stores the solutions for problems posted on Leetcode.
 [1309. Decrypt String from Alphabet to Integer Mapping](1309.%20Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping.md)
 
 [1314. Matrix Block Sum](1314.%20Matrix%20Block%20Sum.md)
+
+[1337. The K Weakest Rows in a Matrix](1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.md)
+
+[1346. Check If N and Its Double Exist](1346.%20Check%20If%20N%20and%20Its%20Double%20Exist.md)
 
 [1351. Count Negative Numbers in a Sorted Matrix](1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.md)
 

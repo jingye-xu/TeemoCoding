@@ -97,6 +97,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [152. Maximum Product Subarray](152.%20Maximum%20Product%20Subarray.md)
 
+[153. Find Minimum in Rotated Sorted Array](153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)
+
 [167. Two Sum II - Input Array Is Sorted](167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted.md)
 
 [168. Excel Sheet Column Title](168.%20Excel%20Sheet%20Column%20Title.md)

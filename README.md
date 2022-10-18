@@ -23,6 +23,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [36. Valid Sudoku](36.%20Valid%20Sudoku.md)
 
+[38. Count and Say](38.%20Count%20and%20Say.md)
+
 [42. Trapping Rain Water](42.%20Trapping%20Rain%20Water.md)
 
 [45. Jump Game II](45.%20Jump%20Game%20II.md)

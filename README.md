@@ -315,6 +315,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [1822. Sign of the Product of an Array](1822.%20Sign%20of%20the%20Product%20of%20an%20Array.md)
 
+[1832. Check if the Sentence Is Pangram](1832.%20Check%20if%20the%20Sentence%20Is%20Pangram.md)
+
 [1855. Maximum Distance Between a Pair of Values](1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values.md)
 
 [2114. Maximum Number of Words Found in Sentences](2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.md)

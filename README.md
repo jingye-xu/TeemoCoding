@@ -129,6 +129,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [217. Contains Duplicate](217.%20Contains%20Duplicate.md)
 
+[219. Contains Duplicate II](219.%20Contains%20Duplicate%20II.md)
+
 [221. Maximal Square](221.%20Maximal%20Square.md)
 
 [226. Invert Binary Tree](226.%20Invert%20Binary%20Tree.md)

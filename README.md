@@ -51,6 +51,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [74. Search a 2D Matrix](74.%20Search%20a%202D%20Matrix.md)
 
+[76. Minimum Window Substring](76.%20Minimum%20Window%20Substring.md)
+
 [77. Combinations](77.%20Combinations.md)
 
 [83. Remove Duplicates from Sorted List](https://github.com/jingye-xu/TeemoCoding/blob/main/83.%20Remove%20Duplicates%20from%20Sorted%20List.md)

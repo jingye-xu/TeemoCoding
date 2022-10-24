@@ -277,6 +277,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [1232. Check If It Is a Straight Line](1232.%20Check%20If%20It%20Is%20a%20Straight%20Line.md)
 
+[1239. Maximum Length of a Concatenated String with Unique Characters](1239.%20Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters.md)
+
 [1281. Subtract the Product and Sum of Digits of an Integer](1281.%20Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.md)
 
 [1290. Convert Binary Number in a Linked List to Integer](1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.md)

@@ -251,6 +251,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [784. Letter Case Permutation](784.%20Letter%20Case%20Permutation.md)
 
+[835. Image Overlap](835.%20Image%20Overlap.md)
+
 [844. Backspace String Compare](844.%20Backspace%20String%20Compare.md)
 
 [852. Peak Index in a Mountain Array](852.%20Peak%20Index%20in%20a%20Mountain%20Array.md)

@@ -33,6 +33,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [46. Permutations](46.%20Permutations.md)
 
+[49. Group Anagrams](49.%20Group%20Anagrams.md)
+
 [53. Maximum Subarray](53.%20Maximum%20Subarray.md)
 
 [55. Jump Game](55.%20Jump%20Game.md)

@@ -340,3 +340,5 @@ This repository stores the solutions for problems posted on Leetcode.
 [1855. Maximum Distance Between a Pair of Values](1855.%20Maximum%20Distance%20Between%20a%20Pair%20of%20Values.md)
 
 [2114. Maximum Number of Words Found in Sentences](2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.md)
+
+[2136. Earliest Possible Day of Full Bloom](2136.%20Earliest%20Possible%20Day%20of%20Full%20Bloom.md)

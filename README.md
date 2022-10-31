@@ -251,6 +251,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [746. Min Cost Climbing Stairs](746.%20Min%20Cost%20Climbing%20Stairs.md)
 
+[766. Toeplitz Matrix](766.%20Toeplitz%20Matrix.md)
+
 [784. Letter Case Permutation](784.%20Letter%20Case%20Permutation.md)
 
 [835. Image Overlap](835.%20Image%20Overlap.md)

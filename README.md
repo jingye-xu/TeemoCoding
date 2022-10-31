@@ -291,6 +291,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [1290. Convert Binary Number in a Linked List to Integer](1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.md)
 
+[1293. Shortest Path in a Grid with Obstacles Elimination](1293.%20Shortest%20Path%20in%20a%20Grid%20with%20Obstacles%20Elimination.md)
+
 [1309. Decrypt String from Alphabet to Integer Mapping](1309.%20Decrypt%20String%20from%20Alphabet%20to%20Integer%20Mapping.md)
 
 [1314. Matrix Block Sum](1314.%20Matrix%20Block%20Sum.md)

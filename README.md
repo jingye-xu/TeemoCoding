@@ -345,4 +345,6 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [2114. Maximum Number of Words Found in Sentences](2114.%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.md)
 
+[2131. Longest Palindrome by Concatenating Two Letter Words](2131.%20Longest%20Palindrome%20by%20Concatenating%20Two%20Letter%20Words.md)
+
 [2136. Earliest Possible Day of Full Bloom](2136.%20Earliest%20Possible%20Day%20of%20Full%20Bloom.md)

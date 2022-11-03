@@ -191,6 +191,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [424. Longest Repeating Character Replacement](424.%20Longest%20Repeating%20Character%20Replacement.md)
 
+[433. Minimum Genetic Mutation](433.%20Minimum%20Genetic%20Mutation.md)
+
 [438. Find All Anagrams in a String](438.%20Find%20All%20Anagrams%20in%20a%20String.md)
 
 [441. Arranging Coins](441.%20Arranging%20Coins.md)
@@ -330,6 +332,8 @@ This repository stores the solutions for problems posted on Leetcode.
 [1672. Richest Customer Wealth](1672.%20Richest%20Customer%20Wealth.md)
 
 [1678. Goal Parser Interpretation](1678.%20Goal%20Parser%20Interpretation.md)
+
+[1706. Where Will the Ball Fall](1706.%20Where%20Will%20the%20Ball%20Fall.md)
 
 [1768. Merge Strings Alternately](1768.%20Merge%20Strings%20Alternately.md)
 

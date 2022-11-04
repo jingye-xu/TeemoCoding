@@ -167,6 +167,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [344. Reverse String](344.%20Reverse%20String.md)
 
+[345. Reverse Vowels of a String](345.%20Reverse%20Vowels%20of%20a%20String.md)
+
 [350. Intersection of Two Arrays II](350.%20Intersection%20of%20Two%20Arrays%20II.md)
 
 [367. Valid Perfect Square](367.%20Valid%20Perfect%20Square.md)

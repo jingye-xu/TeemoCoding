@@ -301,6 +301,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [1314. Matrix Block Sum](1314.%20Matrix%20Block%20Sum.md)
 
+[1323. Maximum 69 Number](1323.%20Maximum%2069%20Number.md)
+
 [1337. The K Weakest Rows in a Matrix](1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.md)
 
 [1346. Check If N and Its Double Exist](1346.%20Check%20If%20N%20and%20Its%20Double%20Exist.md)

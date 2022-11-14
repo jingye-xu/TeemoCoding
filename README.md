@@ -283,6 +283,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [1046. Last Stone Weight](1046.%20Last%20Stone%20Weight.md)
 
+[1047. Remove All Adjacent Duplicates In String](1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.md)
+
 [1137. N-th Tribonacci Number](1137.%20N-th%20Tribonacci%20Number.md)
 
 [1143. Longest Common Subsequence](1143.%20Longest%20Common%20Subsequence.md)

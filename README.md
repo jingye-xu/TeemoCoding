@@ -13,9 +13,11 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [19. Remove Nth Node From End of List](19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
 
-[20. Valid Parentheses](https://github.com/jingye-xu/TeemoCoding/blob/main/20.%20Valid%20Parentheses.md)
+[20. Valid Parentheses](20.%20Valid%20Parentheses.md)
 
 [21. Merge Two Sorted Lists](21.%20Merge%20Two%20Sorted%20Lists.md)
+
+[26. Remove Duplicates from Sorted Array](26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
 
 [33. Search in Rotated Sorted Array](33.%20Search%20in%20Rotated%20Sorted%20Array.md)
 

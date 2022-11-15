@@ -139,6 +139,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [221. Maximal Square](221.%20Maximal%20Square.md)
 
+[222. Count Complete Tree Nodes](222. Count Complete Tree Nodes)
+
 [226. Invert Binary Tree](226.%20Invert%20Binary%20Tree.md)
 
 [231. Power of Two](231.%20Power%20of%20Two.md)

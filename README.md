@@ -151,6 +151,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [242. Valid Anagram](242.%20Valid%20Anagram.md)
 
+[263. Ugly Number](263.%20Ugly%20Number.md)
+
 [264. Ugly Number II](264.%20Ugly%20Number%20II.md)
 
 [278. First Bad Version](278.%20First%20Bad%20Version.md)

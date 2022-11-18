@@ -141,6 +141,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [222. Count Complete Tree Nodes](222.%20Count%20Complete%20Tree%20Nodes.md)
 
+[223. Rectangle Area](223.%20Rectangle%20Area.md)
+
 [226. Invert Binary Tree](226.%20Invert%20Binary%20Tree.md)
 
 [231. Power of Two](231.%20Power%20of%20Two.md)

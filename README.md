@@ -229,6 +229,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [567. Permutation in String](567.%20Permutation%20in%20String.md)
 
+[587. Erect the Fence](587.%20Erect%20the%20Fence.md)
+
 [589. N-ary Tree Preorder Traversal](589.%20N-ary%20Tree%20Preorder%20Traversal.md)
 
 [617. Merge Two Binary Trees](617.%20Merge%20Two%20Binary%20Trees.md)

@@ -143,6 +143,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [223. Rectangle Area](223.%20Rectangle%20Area.md)
 
+[224. Basic Calculator](224.%20Basic%20Calculator.md)
+
 [226. Invert Binary Tree](226.%20Invert%20Binary%20Tree.md)
 
 [231. Power of Two](231.%20Power%20of%20Two.md)

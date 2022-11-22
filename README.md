@@ -161,6 +161,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [278. First Bad Version](278.%20First%20Bad%20Version.md)
 
+[279. Perfect Squares](279.%20Perfect%20Squares.md)
+
 [283. Move Zeroes](283.%20Move%20Zeroes.md)
 
 [299. Bulls and Cows](299.%20Bulls%20and%20Cows.md)

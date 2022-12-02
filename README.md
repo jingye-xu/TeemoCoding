@@ -355,6 +355,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [1678. Goal Parser Interpretation](1678.%20Goal%20Parser%20Interpretation.md)
 
+[1704. Determine if String Halves Are Alike](1704.%20Determine%20if%20String%20Halves%20Are%20Alike.md)
+
 [1706. Where Will the Ball Fall](1706.%20Where%20Will%20the%20Ball%20Fall.md)
 
 [1768. Merge Strings Alternately](1768.%20Merge%20Strings%20Alternately.md)

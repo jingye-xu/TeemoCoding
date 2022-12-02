@@ -349,6 +349,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [1608. Special Array With X Elements Greater Than or Equal X](1608.%20Special%20Array%20With%20X%20Elements%20Greater%20Than%20or%20Equal%20X.md)
 
+[1657. Determine if Two Strings Are Close](1657.%20Determine%20if%20Two%20Strings%20Are%20Close.md)
+
 [1662. Check If Two String Arrays are Equivalent](1662.%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.md)
 
 [1672. Richest Customer Wealth](1672.%20Richest%20Customer%20Wealth.md)

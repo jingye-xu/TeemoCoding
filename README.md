@@ -165,6 +165,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [283. Move Zeroes](283.%20Move%20Zeroes.md)
 
+[290. Word Pattern](290.%20Word%20Pattern.md)
+
 [299. Bulls and Cows](299.%20Bulls%20and%20Cows.md)
 
 [300. Longest Increasing Subsequence](300.%20Longest%20Increasing%20Subsequence.md)

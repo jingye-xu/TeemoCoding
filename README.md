@@ -223,6 +223,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [518. Coin Change II](518.%20Coin%20Change%20II.md)
 
+[520. Detect Capital](520.%20Detect%20Capital.md)
+
 [523. Continuous Subarray Sum](523.%20Continuous%20Subarray%20Sum.md)
 
 [542. 01 Matrix](542.%2001%20Matrix.md)

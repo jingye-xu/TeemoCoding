@@ -289,6 +289,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [931. Minimum Falling Path Sum](931.%20Minimum%20Falling%20Path%20Sum.md)
 
+[944. Delete Columns to Make Sorted](944.%20Delete%20Columns%20to%20Make%20Sorted.md)
+
 [953. Verifying an Alien Dictionary](953.%20Verifying%20an%20Alien%20Dictionary.md)
 
 [976. Largest Perimeter Triangle](976.%20Largest%20Perimeter%20Triangle.md)

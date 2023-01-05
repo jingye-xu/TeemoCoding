@@ -213,6 +213,8 @@ This repository stores the solutions for problems posted on Leetcode.
 
 [441. Arranging Coins](441.%20Arranging%20Coins.md)
 
+[452. Minimum Number of Arrows to Burst Balloons](452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.md)
+
 [462. Minimum Moves to Equal Array Elements II](462.%20Minimum%20Moves%20to%20Equal%20Array%20Elements%20II.md)
 
 [496. Next Greater Element I](496.%20Next%20Greater%20Element%20I.md)

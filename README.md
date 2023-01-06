@@ -1,6 +1,17 @@
 # TeemoCoding
 This repository stores the solutions for problems posted on Leetcode.
 
+Profile: [link](https://leetcode.com/jingye-xu/)
+
+Progress: 
+
+| Category | Solved   |
+|----------|----------|
+| All      | 228/2524 |
+| Easy     | 127/618  |
+| Medium   | 93/1344  |
+| Hard     | 8/562    |
+
 ## Table of Contents
 
 [1. Two Sum](1.%20Two%20Sum.md)

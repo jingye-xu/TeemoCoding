@@ -118,6 +118,8 @@ Progress:
 
 [145. Binary Tree Postorder Traversal](145.%20Binary%20Tree%20Postorder%20Traversal.md)
 
+[149. Max Points on a Line](149.%20Max%20Points%20on%20a%20Line.md)
+
 [152. Maximum Product Subarray](152.%20Maximum%20Product%20Subarray.md)
 
 [153. Find Minimum in Rotated Sorted Array](153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)

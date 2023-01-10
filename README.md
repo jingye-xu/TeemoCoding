@@ -82,6 +82,8 @@ Progress:
 
 [98. Validate Binary Search Tree](98.%20Validate%20Binary%20Search%20Tree.md)
 
+[100. Same Tree](100.%20Same%20Tree.md)
+
 [101. Symmetric Tree](101.%20Symmetric%20Tree.md)
 
 [102. Binary Tree Level Order Traversal](https://github.com/jingye-xu/TeemoCoding/blob/main/102.%20Binary%20Tree%20Level%20Order%20Traversal.md)

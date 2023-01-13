@@ -7,10 +7,10 @@ Progress:
 
 | Category | Solved   |
 |----------|----------|
-| All      | 228/2524 |
-| Easy     | 127/618  |
-| Medium   | 93/1344  |
-| Hard     | 8/562    |
+| All      | 232/2533 |
+| Easy     | 127/620  |
+| Medium   | 96/1349  |
+| Hard     | 9/564    |
 
 ## Table of Contents
 

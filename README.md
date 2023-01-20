@@ -316,6 +316,8 @@ Progress:
 
 [953. Verifying an Alien Dictionary](953.%20Verifying%20an%20Alien%20Dictionary.md)
 
+[974. Subarray Sums Divisible by K](974.%20Subarray%20Sums%20Divisible%20by%20K.md)
+
 [976. Largest Perimeter Triangle](976.%20Largest%20Perimeter%20Triangle.md)
 
 [977. Squares of a Sorted Array](977.%20Squares%20of%20a%20Sorted%20Array.md)

@@ -78,6 +78,8 @@ Progress:
 
 [91. Decode Ways](91.%20Decode%20Ways.md)
 
+[93. Restore IP Addresses](93.%20Restore%20IP%20Addresses.md)
+
 [94. Binary Tree Inorder Traversal](94.%20Binary%20Tree%20Inorder%20Traversal.md)
 
 [96. Unique Binary Search Trees](96.%20Unique%20Binary%20Search%20Trees.md)

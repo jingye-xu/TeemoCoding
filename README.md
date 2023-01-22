@@ -112,6 +112,8 @@ Progress:
 
 [125. Valid Palindrome](125.%20Valid%20Palindrome.md)
 
+[131. Palindrome Partitioning](131.%20Palindrome%20Partitioning.md)
+
 [134. Gas Station](134.%20Gas%20Station.md)
 
 [136. Single Number](136.%20Single%20Number.md)

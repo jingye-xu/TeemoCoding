@@ -328,6 +328,8 @@ Progress:
 
 [994. Rotting Oranges](994.%20Rotting%20Oranges.md)
 
+[997. Find the Town Judge](997.%20Find%20the%20Town%20Judge.md)
+
 [1014. Best Sightseeing Pair](1014.%20Best%20Sightseeing%20Pair.md)
 
 [1046. Last Stone Weight](1046.%20Last%20Stone%20Weight.md)

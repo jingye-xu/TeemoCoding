@@ -342,6 +342,8 @@ Progress:
 
 [1047. Remove All Adjacent Duplicates In String](1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.md)
 
+[1071. Greatest Common Divisor of Strings](1071.%20Greatest%20Common%20Divisor%20of%20Strings.md)
+
 [1137. N-th Tribonacci Number](1137.%20N-th%20Tribonacci%20Number.md)
 
 [1143. Longest Common Subsequence](1143.%20Longest%20Common%20Subsequence.md)

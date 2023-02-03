@@ -20,6 +20,8 @@ Progress:
 
 [5. Longest Palindromic Substring](5.%20Longest%20Palindromic%20Substring.md)
 
+[6. Zigzag Conversion](6. Zigzag Conversion.md)
+
 [12. Integer to Roman](12.%20Integer%20to%20Roman.md)
 
 [19. Remove Nth Node From End of List](19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)

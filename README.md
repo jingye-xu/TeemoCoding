@@ -316,6 +316,8 @@ Progress:
 
 [876. Middle of the Linked List](876.%20Middle%20of%20the%20Linked%20List.md)
 
+[904. Fruit Into Baskets](904.%20Fruit%20Into%20Baskets.md)
+
 [909. Snakes and Ladders](909.%20Snakes%20and%20Ladders.md)
 
 [918. Maximum Sum Circular Subarray](918.%20Maximum%20Sum%20Circular%20Subarray.md)

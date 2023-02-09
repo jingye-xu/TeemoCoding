@@ -434,4 +434,6 @@ Progress:
 
 [2244. Minimum Rounds to Complete All Tasks](2244.%20Minimum%20Rounds%20to%20Complete%20All%20Tasks.md)
 
+[2306. Naming a Company](2306.%20Naming%20a%20Company.md)
+
 [2359. Find Closest Node to Given Two Nodes](2359.%20Find%20Closest%20Node%20to%20Given%20Two%20Nodes.md)

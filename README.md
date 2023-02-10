@@ -352,6 +352,8 @@ Progress:
 
 [1143. Longest Common Subsequence](1143.%20Longest%20Common%20Subsequence.md)
 
+[1162. As Far from Land as Possible](1162.%20As%20Far%20from%20Land%20as%20Possible.md)
+
 [1232. Check If It Is a Straight Line](1232.%20Check%20If%20It%20Is%20a%20Straight%20Line.md)
 
 [1239. Maximum Length of a Concatenated String with Unique Characters](1239.%20Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters.md)

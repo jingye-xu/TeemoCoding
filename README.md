@@ -348,6 +348,8 @@ Progress:
 
 [1071. Greatest Common Divisor of Strings](1071.%20Greatest%20Common%20Divisor%20of%20Strings.md)
 
+[1129. Shortest Path with Alternating Colors](1129.%20Shortest%20Path%20with%20Alternating%20Colors.md)
+
 [1137. N-th Tribonacci Number](1137.%20N-th%20Tribonacci%20Number.md)
 
 [1143. Longest Common Subsequence](1143.%20Longest%20Common%20Subsequence.md)

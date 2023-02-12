@@ -441,3 +441,5 @@ Progress:
 [2306. Naming a Company](2306.%20Naming%20a%20Company.md)
 
 [2359. Find Closest Node to Given Two Nodes](2359.%20Find%20Closest%20Node%20to%20Given%20Two%20Nodes.md)
+
+[2477. Minimum Fuel Cost to Report to the Capital](2477.%20Minimum%20Fuel%20Cost%20to%20Report%20to%20the%20Capital.md)

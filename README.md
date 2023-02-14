@@ -62,6 +62,8 @@ Progress:
 
 [64. Minimum Path Sum](64.%20Minimum%20Path%20Sum.md)
 
+[67. Add Binary](67.%20Add%20Binary.md)
+
 [69. Sqrt(x)](69.%20Sqrt(x).md)
 
 [70. Climbing Stairs](70.%20Climbing%20Stairs.md)

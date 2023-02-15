@@ -338,6 +338,8 @@ Progress:
 
 [977. Squares of a Sorted Array](977.%20Squares%20of%20a%20Sorted%20Array.md)
 
+[989. Add to Array-Form of Integer](989.%20Add%20to%20Array-Form%20of%20Integer.md)
+
 [994. Rotting Oranges](994.%20Rotting%20Oranges.md)
 
 [997. Find the Town Judge](997.%20Find%20the%20Town%20Judge.md)

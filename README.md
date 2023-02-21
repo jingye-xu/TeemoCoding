@@ -260,6 +260,8 @@ Progress:
 
 [523. Continuous Subarray Sum](523.%20Continuous%20Subarray%20Sum.md)
 
+[540. Single Element in a Sorted Array](540.%20Single%20Element%20in%20a%20Sorted%20Array.md)
+
 [542. 01 Matrix](542.%2001%20Matrix.md)
 
 [543. Diameter of Binary Tree](543.%20Diameter%20of%20Binary%20Tree.md)

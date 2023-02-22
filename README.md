@@ -350,6 +350,8 @@ Progress:
 
 [997. Find the Town Judge](997.%20Find%20the%20Town%20Judge.md)
 
+[1011. Capacity To Ship Packages Within D Days](1011.%20Capacity%20To%20Ship%20Packages%20Within%20D%20Days.md)
+
 [1014. Best Sightseeing Pair](1014.%20Best%20Sightseeing%20Pair.md)
 
 [1046. Last Stone Weight](1046.%20Last%20Stone%20Weight.md)

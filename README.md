@@ -250,6 +250,8 @@ Progress:
 
 [496. Next Greater Element I](496.%20Next%20Greater%20Element%20I.md)
 
+[502. IPO](502.%20IPO.md)
+
 [509. Fibonacci Number](509.%20Fibonacci%20Number.md)
 
 [516. Longest Palindromic Subsequence](516.%20Longest%20Palindromic%20Subsequence.md)

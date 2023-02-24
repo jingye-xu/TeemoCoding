@@ -424,6 +424,8 @@ Progress:
 
 [1672. Richest Customer Wealth](1672.%20Richest%20Customer%20Wealth.md)
 
+[1675. Minimize Deviation in Array](1675.%20Minimize%20Deviation%20in%20Array.md)
+
 [1678. Goal Parser Interpretation](1678.%20Goal%20Parser%20Interpretation.md)
 
 [1704. Determine if String Halves Are Alike](1704.%20Determine%20if%20String%20Halves%20Are%20Alike.md)

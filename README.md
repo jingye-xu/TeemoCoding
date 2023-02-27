@@ -238,6 +238,8 @@ Progress:
 
 [424. Longest Repeating Character Replacement](424.%20Longest%20Repeating%20Character%20Replacement.md)
 
+[427. Construct Quad Tree](427.%20Construct%20Quad%20Tree.md)
+
 [433. Minimum Genetic Mutation](433.%20Minimum%20Genetic%20Mutation.md)
 
 [438. Find All Anagrams in a String](438.%20Find%20All%20Anagrams%20in%20a%20String.md)

@@ -286,6 +286,8 @@ Progress:
 
 [645. Set Mismatch](645.%20Set%20Mismatch.md)
 
+[652. Find Duplicate Subtrees](652.%20Find%20Duplicate%20Subtrees.md)
+
 [653. Two Sum IV - Input is a BST](653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST.md)
 
 [692. Top K Frequent Words](692.%20Top%20K%20Frequent%20Words.md)

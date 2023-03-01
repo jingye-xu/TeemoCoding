@@ -334,6 +334,8 @@ Progress:
 
 [909. Snakes and Ladders](909.%20Snakes%20and%20Ladders.md)
 
+[912. Sort an Array](912.%20Sort%20an%20Array.md)
+
 [918. Maximum Sum Circular Subarray](918.%20Maximum%20Sum%20Circular%20Subarray.md)
 
 [926. Flip String to Monotone Increasing](926.%20Flip%20String%20to%20Monotone%20Increasing.md)

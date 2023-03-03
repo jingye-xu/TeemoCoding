@@ -32,6 +32,8 @@ Progress:
 
 [26. Remove Duplicates from Sorted Array](26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
 
+[28. Find the Index of the First Occurrence in a String](28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.md)
+
 [33. Search in Rotated Sorted Array](33.%20Search%20in%20Rotated%20Sorted%20Array.md)
 
 [34. Find First and Last Position of Element in Sorted Array](34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.md)

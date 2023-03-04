@@ -468,4 +468,6 @@ Progress:
 
 [2359. Find Closest Node to Given Two Nodes](2359.%20Find%20Closest%20Node%20to%20Given%20Two%20Nodes.md)
 
+[2444. Count Subarrays With Fixed Bounds](2444.%20Count%20Subarrays%20With%20Fixed%20Bounds.md)
+
 [2477. Minimum Fuel Cost to Report to the Capital](2477.%20Minimum%20Fuel%20Cost%20to%20Report%20to%20the%20Capital.md)

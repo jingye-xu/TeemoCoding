@@ -398,6 +398,8 @@ Progress:
 
 [1337. The K Weakest Rows in a Matrix](1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.md)
 
+[1345. Jump Game IV](1345.%20Jump%20Game%20IV.md)
+
 [1346. Check If N and Its Double Exist](1346.%20Check%20If%20N%20and%20Its%20Double%20Exist.md)
 
 [1351. Count Negative Numbers in a Sorted Matrix](1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix.md)

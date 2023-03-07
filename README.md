@@ -464,6 +464,8 @@ Progress:
 
 [2136. Earliest Possible Day of Full Bloom](2136.%20Earliest%20Possible%20Day%20of%20Full%20Bloom.md)
 
+[2187. Minimum Time to Complete Trips](2187.%20Minimum%20Time%20to%20Complete%20Trips.md)
+
 [2244. Minimum Rounds to Complete All Tasks](2244.%20Minimum%20Rounds%20to%20Complete%20All%20Tasks.md)
 
 [2306. Naming a Company](2306.%20Naming%20a%20Company.md)

@@ -332,6 +332,8 @@ Progress:
 
 [852. Peak Index in a Mountain Array](852.%20Peak%20Index%20in%20a%20Mountain%20Array.md)
 
+[875. Koko Eating Bananas](875.%20Koko%20Eating%20Bananas.md)
+
 [876. Middle of the Linked List](876.%20Middle%20of%20the%20Linked%20List.md)
 
 [904. Fruit Into Baskets](904.%20Fruit%20Into%20Baskets.md)

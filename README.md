@@ -226,6 +226,8 @@ Progress:
 
 [376. Wiggle Subsequence](376.%20Wiggle%20Subsequence.md)
 
+[382. Linked List Random Node](382.%20Linked%20List%20Random%20Node.md)
+
 [383. Ransom Note](383.%20Ransom%20Note.md)
 
 [387. First Unique Character in a String](387.%20First%20Unique%20Character%20in%20a%20String.md)

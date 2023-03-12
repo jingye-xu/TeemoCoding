@@ -30,6 +30,8 @@ Progress:
 
 [21. Merge Two Sorted Lists](21.%20Merge%20Two%20Sorted%20Lists.md)
 
+[23. Merge k Sorted Lists](23.%20Merge%20k%20Sorted%20Lists.md)
+
 [26. Remove Duplicates from Sorted Array](26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
 
 [28. Find the Index of the First Occurrence in a String](28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.md)

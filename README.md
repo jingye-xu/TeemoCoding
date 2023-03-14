@@ -124,6 +124,8 @@ Progress:
 
 [125. Valid Palindrome](125.%20Valid%20Palindrome.md)
 
+[129. Sum Root to Leaf Numbers](129.%20Sum%20Root%20to%20Leaf%20Numbers.md)
+
 [131. Palindrome Partitioning](131.%20Palindrome%20Partitioning.md)
 
 [134. Gas Station](134.%20Gas%20Station.md)

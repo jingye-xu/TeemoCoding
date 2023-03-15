@@ -362,6 +362,8 @@ Progress:
 
 [953. Verifying an Alien Dictionary](953.%20Verifying%20an%20Alien%20Dictionary.md)
 
+[958. Check Completeness of a Binary Tree](958.%20Check%20Completeness%20of%20a%20Binary%20Tree.md)
+
 [974. Subarray Sums Divisible by K](974.%20Subarray%20Sums%20Divisible%20by%20K.md)
 
 [976. Largest Perimeter Triangle](976.%20Largest%20Perimeter%20Triangle.md)

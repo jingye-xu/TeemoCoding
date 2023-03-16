@@ -104,6 +104,8 @@ Progress:
 
 [104. Maximum Depth of Binary Tree](104.%20Maximum%20Depth%20of%20Binary%20Tree.md)
 
+[106. Construct Binary Tree from Inorder and Postorder Traversal](106.%20Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal.md)
+
 [109. Convert Sorted List to Binary Search Tree](109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.md)
 
 [111. Minimum Depth of Binary Tree](111.%20Minimum%20Depth%20of%20Binary%20Tree.md)

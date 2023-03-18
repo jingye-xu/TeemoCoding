@@ -426,6 +426,8 @@ Progress:
 
 [1470. Shuffle the Array](1470.%20Shuffle%20the%20Array.md)
 
+[1472. Design Browser History](1472.%20Design%20Browser%20History.md)
+
 [1491. Average Salary Excluding the Minimum and Maximum Salary](1491.%20Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.md)
 
 [1502. Can Make Arithmetic Progression From Sequence](1502.%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence.md)

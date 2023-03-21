@@ -490,6 +490,8 @@ Progress:
 
 [2306. Naming a Company](2306.%20Naming%20a%20Company.md)
 
+[2348. Number of Zero-Filled Subarrays](2348.%20Number%20of%20Zero-Filled%20Subarrays.md)
+
 [2359. Find Closest Node to Given Two Nodes](2359.%20Find%20Closest%20Node%20to%20Given%20Two%20Nodes.md)
 
 [2444. Count Subarrays With Fixed Bounds](2444.%20Count%20Subarrays%20With%20Fixed%20Bounds.md)

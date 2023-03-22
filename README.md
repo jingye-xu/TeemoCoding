@@ -497,3 +497,5 @@ Progress:
 [2444. Count Subarrays With Fixed Bounds](2444.%20Count%20Subarrays%20With%20Fixed%20Bounds.md)
 
 [2477. Minimum Fuel Cost to Report to the Capital](2477.%20Minimum%20Fuel%20Cost%20to%20Report%20to%20the%20Capital.md)
+
+[2492. Minimum Score of a Path Between Two Cities](2492.%20Minimum%20Score%20of%20a%20Path%20Between%20Two%20Cities.md)

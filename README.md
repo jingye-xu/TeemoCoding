@@ -492,6 +492,8 @@ Progress:
 
 [2306. Naming a Company](2306.%20Naming%20a%20Company.md)
 
+[2316. Count Unreachable Pairs of Nodes in an Undirected Graph](2316.%20Count%20Unreachable%20Pairs%20of%20Nodes%20in%20an%20Undirected%20Graph.md)
+
 [2348. Number of Zero-Filled Subarrays](2348.%20Number%20of%20Zero-Filled%20Subarrays.md)
 
 [2359. Find Closest Node to Given Two Nodes](2359.%20Find%20Closest%20Node%20to%20Given%20Two%20Nodes.md)

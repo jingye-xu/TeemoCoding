@@ -426,6 +426,8 @@ Progress:
 
 [1385. Find the Distance Value Between Two Arrays](1385.%20Find%20the%20Distance%20Value%20Between%20Two%20Arrays.md)
 
+[1402. Reducing Dishes](1402.%20Reducing%20Dishes.md)
+
 [1466. Reorder Routes to Make All Paths Lead to the City Zero](1466.%20Reorder%20Routes%20to%20Make%20All%20Paths%20Lead%20to%20the%20City%20Zero.md)
 
 [1470. Shuffle the Array](1470.%20Shuffle%20the%20Array.md)
